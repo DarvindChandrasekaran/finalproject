@@ -118,6 +118,7 @@ class _NewPost extends State<NewPost> {
                     },
                     child: const Text('Create'),
                   ),
+                  
                 ],
               )
             ]),
